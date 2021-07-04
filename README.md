@@ -8,20 +8,20 @@ I'm currently affiliated to the *"Osteoporosis Research Center, Endocrinology an
 
 ## Education
 ### PhD.
-- **2016 to 2021**/ PhD. in Medical Library and Information Science (Paramedical School)/ Tehran University of Medical Sciences: Tehran, IR.
-- **PhD Dissertation**: Presenting the Research Priorities for Iran Health Research System Based on Revealed Comparative Advantages Index
+- **2016 to 2021**: PhD. in Medical Library and Information Science (Paramedical School)/ *Tehran University of Medical Sciences*: Tehran, IR.
+- **PhD Dissertation**: *Presenting the Research Priorities for Iran Health Research System Based on Revealed Comparative Advantages Index*
 
 ### MSc.
-- **2012 to 2014**/ MSc. in Medical Library and Information Science (Para-Medical Sciences)/ Bushehr University of Medical Sciences: Bushehr, IR.
-- **MSc Thesis**: Investigating Research Content Management Methods in Iran Ministry of Health & Medical Education
+- **2012 to 2014**: MSc. in Medical Library and Information Science (Para-Medical Sciences)/ *Bushehr University of Medical Sciences*: Bushehr, IR.
+- **MSc Thesis**: *Investigating Research Content Management Methods in Iran Ministry of Health & Medical Education*
 
 ### BS.
-- **2008 to 2012**/ B.S. in Medical Library and Information Science (Para-Medical Sciences)/ Bushehr University of Medical Sciences: Bushehr, IR.
+- **2008 to 2012**: BS. in Medical Library and Information Science (Para-Medical Sciences)/ *Bushehr University of Medical Sciences*: Bushehr, IR.
 
 ## Professional Experience
-- **Research Assistant**/ 2020- Now: Osteoporosis Research Center, Endocrinology and Metabolism Clinical Sciences Institute, Tehran University of Medical Sciences: Tehran, IR.
-- **Research Assistant**/ 2018-2019: National Research Institute for Science Policy (NRISP): Tehran, IR.
-- **Lecturer**/ 2014-2015: Bushehr University of Medical Sciences: Bushehr, IR.
+- **Research Assistant** (2020- Now): *Osteoporosis Research Center, Endocrinology and Metabolism Clinical Sciences Institute, Tehran University of Medical Sciences*: Tehran, IR.
+- **Research Assistant** (2018-2019): *National Research Institute for Science Policy (NRISP)*: Tehran, IR.
+- **Lecturer** (2014-2015): *Bushehr University of Medical Sciences*: Bushehr, IR.
 
 
 ## Publications
