@@ -8,8 +8,8 @@ I'm currently affiliated to the "Osteoporosis Research Center, Endocrinology and
 
 ## Education
 ### PhD.
-**2016 to 2021**/ PhD. in Medical Library and Information Science (Paramedical School)/ Tehran University of Medical Sciences: Tehran, IR.
-**PhD Dissertation**: Presenting the Research Priorities for Iran Health Research System Based on Revealed Comparative Advantages Index
+- **2016 to 2021**/ PhD. in Medical Library and Information Science (Paramedical School)/ Tehran University of Medical Sciences: Tehran, IR.
+- **PhD Dissertation**: Presenting the Research Priorities for Iran Health Research System Based on Revealed Comparative Advantages Index
 ### MSc.
 - **2012 to 2014** | MSc. in Medical Library and Information Science (Para-Medical Sciences) | Bushehr University of Medical Sciences: Bushehr, IR.
 - **MSc Thesis**: Investigating Research Content Management Methods in Iran Ministry of Health & Medical Education
