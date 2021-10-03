@@ -39,3 +39,7 @@ I'm currently affiliated to the *"Osteoporosis Research Center, Endocrinology an
 - Shamsi A, _**Mansourzadeh MJ***_. (2019). The Vocabulary Search Problem in Persian PDF Articles: Letter to the editor. *The Iranian Journal of Obstetrics*, Gynecology and Infertility, 22(10): 91-92. DOI: [10.22038/ijogi.2019.14204](https://dx.doi.org/10.22038/ijogi.2019.14204)
 - _**Mansourzadeh MJ**_, Shahmoradi B, Dehdarirad H, Janavi E.(2019). A note on using revealed comparative advantages in scientometrics studies. *Scientometrics*, 121(1): 595-599. DOI: [10.1007/s11192-019-03207-8](https://doi.org/10.1007/s11192-019-03207-8)
 - Shabankareh K, _**Mansourzadeh MJ**_, Hamidi A.(2018). Scientific Impact of Iranian Medical Sciences Universities' Research Journals in Google Scholar. *Iranian Journal of Information Processing Management*, 33(2): 745-774. URL: [http://jipm.irandoc.ac.ir/article-1-3046-en.html](http://jipm.irandoc.ac.ir/article-1-3046-en.html)
+
+<a title="Real Time Web Analytics" href="http://clicky.com/101335642"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async src="//static.getclicky.com/101335642.js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101335642ns.gif" /></p></noscript>
