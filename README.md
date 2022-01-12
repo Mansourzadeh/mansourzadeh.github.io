@@ -19,6 +19,7 @@ I'm currently affiliated to the *"Osteoporosis Research Center, Endocrinology an
 - **2008 to 2012**: BS. in Medical Library and Information Science (Para-Medical Sciences)/ *Bushehr University of Medical Sciences*: **Bushehr**, IR.
 
 ## Professional Experience
+- **Lecturer** (2021-Now): *The School of Allied Medical Sciences, Tehran University of Medical Sciences*: **Tehran**, IR.
 - **Research Assistant** (2020- Now): *Osteoporosis Research Center, Endocrinology and Metabolism Clinical Sciences Institute, Tehran University of Medical Sciences*: **Tehran**, IR.
 - **Research Assistant** (2018-2019): *National Research Institute for Science Policy (NRISP)*: **Tehran**, IR.
 - **Lecturer** (2014-2015): *Bushehr University of Medical Sciences*: **Bushehr**, IR.
@@ -42,3 +43,9 @@ I'm currently affiliated to the *"Osteoporosis Research Center, Endocrinology an
 - Shamsi A, _**Mansourzadeh MJ***_. (2019). The Vocabulary Search Problem in Persian PDF Articles: Letter to the editor. *The Iranian Journal of Obstetrics*, Gynecology and Infertility, 22(10): 91-92. DOI: [10.22038/ijogi.2019.14204](https://dx.doi.org/10.22038/ijogi.2019.14204)
 - _**Mansourzadeh MJ**_, Shahmoradi B, Dehdarirad H, Janavi E.(2019). A note on using revealed comparative advantages in scientometrics studies. *Scientometrics*, 121(1): 595-599. DOI: [10.1007/s11192-019-03207-8](https://doi.org/10.1007/s11192-019-03207-8)
 - Shabankareh K, _**Mansourzadeh MJ**_, Hamidi A.(2018). Scientific Impact of Iranian Medical Sciences Universities' Research Journals in Google Scholar. *Iranian Journal of Information Processing Management*, 33(2): 745-774. URL: [http://jipm.irandoc.ac.ir/article-1-3046-en.html](http://jipm.irandoc.ac.ir/article-1-3046-en.html)
+
+## Conference, Congress & Seminars
+- _**Mansourzadeh MJ**_, Moheimani H, Panahi N, Sanjari M, Khalaji K, Soltani A, Fahimfar N, Larijani B, Ostovar A. (2021). Identifying the Current Trends in Osteoporosis Research: A Review of Highly Cited Papers Published in 2016-2020. *World Congress on Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (WCO-IOF-ESCEO)*. (Londen: August 26-28, 2021) (P744, [Abstract Book](https://www.wco-iof-esceo.org/sites/wco_22/pdf/WCO21-AbstractBook.pdf))
+- Dehghanbanadaki H, Aazami H, Noorali H, Yarmohammadi H, Ghasemzadeh A, Sanjari M, Khalaji K, _**Mansourzadeh MJ**_,  Ostovar A, Fahimfar N. (2021). A Worldwide Bibliometric Analysis of Published Literature on Trabecular Bone Score. *World Congress on Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (WCO-IOF-ESCEO)*. (Londen: August 26-28, 2021) (P579, [Abstract Book](https://www.wco-iof-esceo.org/sites/wco_22/pdf/WCO21-AbstractBook.pdf))
+- Khalagi K, Fahimfar N, Sanjari M, Shafiee G, Gharibzadeh S, Panahi N, _**Mansourzadeh MJ**_, Heshmat R, Nabipour I, Larijani B, Ostovar A. (2021). Factors Associated with Spontaneous Falling in Older Adults: Results of The Bushehr Elderly Health Program. *World Congress on Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (WCO-IOF-ESCEO)*. (Londen: August 26-28, 2021) (P345, [Abstract Book](https://www.wco-iof-esceo.org/sites/wco_22/pdf/WCO21-AbstractBook.pdf))
+- Ghazbani A, _**Mansourzadeh MJ**_, Mehdizadeh G, Ghobadi M, Ostovar A. (2020). Contribution of Iran in Alzheimer Disease Research During 2010-2019: A Scientometric Analaysis. [*International Congress on BioMedicine (ICB2020)*](https://www.icbcongress.com/2020/articles-accepted?lang=en). (Tehran: November 9th-16th, 2020)
