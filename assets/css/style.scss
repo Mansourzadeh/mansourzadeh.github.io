@@ -1,5 +1,5 @@
 ---
 ---
 
-@import "{{ site.theme }}" 
-  direction: rtl;
+@import "{{ site.theme }}";
+body, h1, h2, h3 {direction: rtl;}
