@@ -1,13 +1,15 @@
 ## درباره من
 
 I'm PhD. in Medical Library and Information Science from the Tehran University of Medical Sciences, Iran. Find out more information about me on [my personal website](http://www.mansourzadeh.ir).
-
+<div dir="rtl" lang="fa">
 #### وابستگی سازمانی
-
+</div>
 I'm currently affiliated to the *"Osteoporosis Research Center, Endocrinology and Metabolism Clinical Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran"*.
 
+<div dir="rtl" lang="fa">
 ## تحصیلات
 #### دکتری تخصصی
+</div>
 - **2016 to 2021**: PhD. in Medical Library and Information Science (Paramedical School)/ *Tehran University of Medical Sciences*: **Tehran**, IR.
 - **PhD Dissertation**: [*Presenting the Research Priorities for Iran Health Research System Based on Revealed Comparative Advantages Index*](https://www.researchgate.net/publication/349915543_Presenting_the_Research_Priorities_for_Iran_Health_Research_System_Based_on_Revealed_Comparative_Advantages_Index)
 
@@ -25,7 +27,7 @@ I'm currently affiliated to the *"Osteoporosis Research Center, Endocrinology an
 - **Lecturer** (2014-2015): *Bushehr University of Medical Sciences*: **Bushehr**, IR.
 
 
-## Publications
+## مقالات
 *last update: 12/1/2022*
 - Shamsi A, Lund B, _**Mansourzadeh MJ***_. (2022). Gender Disparities in Biomedical Highly Cited Researchers, 2014-2020. *JAMA Network Open*. DOI: [10.1001/jamanetworkopen.2021.42513](https://doi.org/10.1001/jamanetworkopen.2021.42513)
 - Soleymani S, Ayati MH, _**Mansourzadeh MJ**_, Namazi N, & Zargaran A. (2022). The effects of Silymarin on the features of cardiometabolic syndrome in adults: A systematic review and meta-analysis. *Phytotherapy Research*, 1– 15. DOI: [10.1002/ptr.7364](https://doi.org/10.1002/ptr.7364)
