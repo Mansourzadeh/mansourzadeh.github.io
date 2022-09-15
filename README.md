@@ -27,7 +27,7 @@ I'm currently affiliated to the *"Osteoporosis Research Center, Endocrinology an
 
 ## Publications
 *last update: 15/9/2022*
-- Ghazbani A, Abdolahi M, **Mansourzadeh MJ**, et al. (2022). Knowledge domain and emerging trends in brachytherapy: A scientometric analysis. *Prec Radiat Oncol*. 1- 14. DOI: [10.1002/pro6.1171](https://doi.org/10.1002/pro6.1171)
+- Ghazbani A, Abdolahi M, _**Mansourzadeh MJ**_, et al. (2022). Knowledge domain and emerging trends in brachytherapy: A scientometric analysis. *Prec Radiat Oncol*. 1- 14. DOI: [10.1002/pro6.1171](https://doi.org/10.1002/pro6.1171)
 - Shamsi A, Lund B, _**Mansourzadeh MJ***_. (2022). Gender Disparities in Biomedical Highly Cited Researchers, 2014-2020. *JAMA Network Open*. DOI: [10.1001/jamanetworkopen.2021.42513](https://doi.org/10.1001/jamanetworkopen.2021.42513)
 - Soleymani S, Ayati MH, _**Mansourzadeh MJ**_, Namazi N, & Zargaran A. (2022). The effects of Silymarin on the features of cardiometabolic syndrome in adults: A systematic review and meta-analysis. *Phytotherapy Research*, 1– 15. DOI: [10.1002/ptr.7364](https://doi.org/10.1002/ptr.7364)
 - Ghazbani A, _**Mansourzadeh MJ**_, Mehdizadeh G et al. (2021). Contribution of Iranian researchers in Alzheimer's disease research: A 10 years scientometric analysis. *J Diabetes Metab Disord*. DOI: [10.1007/s40200-021-00929-6](https://doi.org/10.1007/s40200-021-00929-6)
