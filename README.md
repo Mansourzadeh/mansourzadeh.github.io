@@ -27,6 +27,7 @@ I'm currently affiliated to the *"Osteoporosis Research Center, Endocrinology an
 
 ## Publications
 *last update: 15/9/2022*
+- Pejman Sani M, Fahimfar N, Panahi N, ..., _**Mansourzadeh MJ**_, et al. (2022). Evaluation of the performance of osteoporosis/fracture screening models to identify high-risk women for osteoporosis: Bushehr elderly health (BEH) program. *J Diabetes Metab Disord*. DOI:[10.1007/s40200-022-01110-3](https://doi.org/10.1007/s40200-022-01110-3)
 - Ghazbani A, Abdolahi M, _**Mansourzadeh MJ**_, et al. (2022). Knowledge domain and emerging trends in brachytherapy: A scientometric analysis. *Prec Radiat Oncol*. 1- 14. DOI: [10.1002/pro6.1171](https://doi.org/10.1002/pro6.1171)
 - Shamsi A, Lund B, _**Mansourzadeh MJ***_. (2022). Gender Disparities in Biomedical Highly Cited Researchers, 2014-2020. *JAMA Network Open*. DOI: [10.1001/jamanetworkopen.2021.42513](https://doi.org/10.1001/jamanetworkopen.2021.42513)
 - Soleymani S, Ayati MH, _**Mansourzadeh MJ**_, Namazi N, & Zargaran A. (2022). The effects of Silymarin on the features of cardiometabolic syndrome in adults: A systematic review and meta-analysis. *Phytotherapy Research*, 1– 15. DOI: [10.1002/ptr.7364](https://doi.org/10.1002/ptr.7364)
